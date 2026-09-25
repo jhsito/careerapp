@@ -639,8 +639,8 @@ export default function App() {
                 <span className="text-slate-900 font-medium">JobDataLake MCP (https://mcp.jobdatalake.com)</span>
               </div>
               <div>
-                <span className="text-slate-400">Endpoint:</span>{' '}
-                <span className="text-slate-900 font-medium">https://careerapp-gamma-one.vercel.app/api/mcp</span>
+                <span className="text-slate-400">MCP Endpoint:</span>{' '}
+                <span className="text-slate-900 font-medium">https://mcp.jobdatalake.com</span>
               </div>
               <div>
                 <span className="text-slate-400">Tool used:</span>{' '}
