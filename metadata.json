@@ -1,0 +1,6 @@
+{
+  "name": "Career Navigator",
+  "description": "AI-Powered Labour Market Intelligence using real JobDataLake MCP telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
